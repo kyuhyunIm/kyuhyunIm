@@ -4,6 +4,7 @@
 
 - 언제나 클린코드를 작성하려고 노력하는 FE개발자 전규현입니다. 
 - **contact : jgh10070@naver.com**
+- **languages(still learning): japanese**
 
 <p><img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="60%"></img></p>
 <!--
